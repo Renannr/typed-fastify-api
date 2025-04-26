@@ -6,7 +6,6 @@ This is an example project of an API built with **Fastify**, using **Zod** for t
 
 - [Fastify](https://fastify.dev/)
 - [Zod](https://zod.dev/)
-- [fastify-type-provider-zod](https://github.com/fastify/fastify-type-provider-zod)
 - [@fastify/swagger](https://github.com/fastify/fastify-swagger)
 - [@fastify/swagger-ui](https://github.com/fastify/fastify-swagger-ui)
 - [@fastify/cors](https://github.com/fastify/fastify-cors)
@@ -62,7 +61,6 @@ Este é um projeto de exemplo de uma API construída com **Fastify**, utilizando
 
 - [Fastify](https://fastify.dev/)
 - [Zod](https://zod.dev/)
-- [fastify-type-provider-zod](https://github.com/fastify/fastify-type-provider-zod)
 - [@fastify/swagger](https://github.com/fastify/fastify-swagger)
 - [@fastify/swagger-ui](https://github.com/fastify/fastify-swagger-ui)
 - [@fastify/cors](https://github.com/fastify/fastify-cors)
